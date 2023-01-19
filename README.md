@@ -1,7 +1,7 @@
 
 ### Инструкция по запуску L0 на локальном компьютере:
 
-1. Склонировать проект *`git clone git@github.com:ArtoriastheVoidwalker/L0.git`*
+1. Склонировать проект *`git clone git@github.com:ArtoriastheVoidwalker/TaskL0.git`*
 2. Перейти в директорию проекта
 3. Для применения миграций выполнить команду `make migration`
 4. Для запуска nats-streaming выполнить команду *`make nats`*
