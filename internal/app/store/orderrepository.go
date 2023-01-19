@@ -4,7 +4,7 @@ import (
 	"log"
 	"testing"
 
-	"github.com/ArtoriastheVoidwalker/L0/internal/app/model"
+	"github.com/ArtoriastheVoidwalker/TaskL0/internal/app/model"
 )
 
 const (
