@@ -11,7 +11,7 @@ test:
 migration:
 	migrate -path ./schema -database "postgres://postgres:postgres@localhost:5432/l0?sslmode=disable" up
 
-generate:
+filling:
 	go run filling.go
 
 nats:
